@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UrlDetectorAppWithNotification</string>
+    <string name="hyperlink"><a href="https://exchange.xforce.ibmcloud.com">IBM X-Force Exchange</a></string>
+</resources>
